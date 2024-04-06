@@ -1,6 +1,6 @@
 public class PrimeExample{
   public static void main(String[] args) {
-    int num = 20;  // Define the upper limit
+    int num = 50;  // Define the upper limit
     int count;  // Initialize counter for divisibility checks
 
     
